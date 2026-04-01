@@ -1,0 +1,30 @@
+
+
+psd to html/psd to bootstrap
+psd to html responsive with bootstrap.
+
+
+html,css,bootstrap,js/jq
+
+
+
+fonts------
+
+  font-family: "PT Sans", sans-serif;
+
+color-----
+black #010101
+ash #898989
+yel #fcdb00
+  
+
+  xxl 1440
+  xl 1200
+  lg 1024
+  md 768
+  sm 576
+  col 320
+
+pt sans 
+    bold
+    regular
